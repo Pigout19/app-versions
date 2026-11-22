@@ -1,5 +1,5 @@
 {
-  "version": "6.2.0",
-  "notes": ["보안 보강과 yt-dlp 업데이트 기능이 추가됐어요"],
-  "url": "여기에 블로그 글 주소"
+  "version": "6.3.0",
+  "notes": ["받은 뒤 자동 압축 · 내 음악 목록 · 중복 곡 정리 업데이트 기능이 추가됐어요"],
+  "url": "https://seed-tree.tistory.com/"
 }
